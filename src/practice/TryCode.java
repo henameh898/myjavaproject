@@ -6,6 +6,7 @@ public class TryCode {
 		// TODO Auto-generated method stub
 		System.out.println("hello class");
 		System.out.println();
+		System.out.println(40-90);
 	}
 
 }
